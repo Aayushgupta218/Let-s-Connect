@@ -42,6 +42,7 @@ const config = {
         yellow: {
           1: '#F9A90E',
         },
+        destructive: '#FF4D4F', 
       },
       keyframes: {
         'accordion-down': {

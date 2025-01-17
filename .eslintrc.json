@@ -4,5 +4,10 @@
     "standard",
     "plugin:tailwindcss/recommended",
     "prettier"
-  ]
+  ],
+  "rules": {
+    "tailwindcss/no-custom-classname": "off",
+    "react/no-unescaped-entities": "off",
+    "object-shorthand": "off"
+  }
 }
